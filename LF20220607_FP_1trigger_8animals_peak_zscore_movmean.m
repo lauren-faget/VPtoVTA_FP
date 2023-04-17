@@ -1,7 +1,6 @@
 %% Script written by Lauren Faget - Hnasko lab - July 2021
 % For Fiber photometry data analysis
 
-% PLEASE DO NOT SHARE OUTSIDE OF THE HNASKO LAB
 
 % Make sure to have MATLAB scripts, MATLAB tools and TDT tanks in the same folder. 
 % In 'Home' tab, click on 'Set Path', click on 'Add with subfolders' and
