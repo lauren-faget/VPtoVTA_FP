@@ -46,28 +46,28 @@ TIME_THRESHOLD2 = 2; %  in seconds
 
 %% Import data - Enter tank file paths here
 
-% fp1='tankfilepath1';
+fp1='tankfilepath1';
 data1 = TDTbin2mat(fp1);
 
-% fp2='tankfilepath2';
+fp2='tankfilepath2';
 data2 = TDTbin2mat(fp2);
 
-% fp3='tankfilepath3';
+fp3='tankfilepath3';
 data3 = TDTbin2mat(fp3);
 
-% fp4='tankfilepath4';
+fp4='tankfilepath4';
 data4 = TDTbin2mat(fp4);
 
-% fp5='tankfilepath5';
+fp5='tankfilepath5';
 data5 = TDTbin2mat(fp5);
 
-% fp6='tankfilepath6';
+fp6='tankfilepath6';
 data6 = TDTbin2mat(fp6);
 
-% fp7='tankfilepath7';
+fp7='tankfilepath7';
 data7 = TDTbin2mat(fp7);
 
-% fp8='tankfilepath8';
+fp8='tankfilepath8';
 data8 = TDTbin2mat(fp8);
 
 %% 
